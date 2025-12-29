@@ -4,7 +4,7 @@
 
 ---
 
-Check out the live [AQI Prediction Dashboard](https://aqi-prediction-dashboard.netlify.app/).
+Check out the live : https://aqi-prediction-dashboard.netlify.app/
 
 ## 🛠️ Tech Stack
 * **Language:** Python
