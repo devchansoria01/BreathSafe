@@ -1,7 +1,7 @@
 # Breath-Safe: The Virtual Air Quality Sensor Network 🌍💨
 
 > **"Seeing the Invisible. Breathing the Future."**
-
+[![Live Demo](https://img.shields.io/badge/demo-live%20dashboard-blue)](https://aqi-prediction-dashboard.netlify.app/)
 ---
 
 ## 🛠️ Tech Stack
