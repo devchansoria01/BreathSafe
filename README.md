@@ -42,14 +42,12 @@
 | :--- | :--- |
 | **Overall Accuracy** | 92.27% |
 | **Overall RMSE** | 68.51 AQI |
-
     ## 📊 LSTM Model Performance
 
 | Metric | Value |
 | :--- | :--- |
-| **Overall Accuracy** | 71.34% |
+| **Overall Accuracy** | 84.34% |
 | **Overall RMSE** | 82.21 AQI |
-| **Forecast Accuracy (t+1)** | 84.26% |
 
 ## 👥 Team
 * [Your Name] - Data Scientist
