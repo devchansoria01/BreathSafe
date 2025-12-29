@@ -1,8 +1,4 @@
-# VayuSense: The Virtual Air Quality Sensor Network 🌍💨
-
-![Status](https://img.shields.io/badge/Status-Prototype-blue)
-![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/AI-XGBoost-orange)
+# Breath-Safe: The Virtual Air Quality Sensor Network 🌍💨
 
 > **"Seeing the Invisible. Breathing the Future."**
 
