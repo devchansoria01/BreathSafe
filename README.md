@@ -53,8 +53,8 @@ Check out the live : https://aqi-prediction-dashboard.netlify.app/
 | **Overall RMSE** | 82.21 AQI |
 
 ## 👥 Team
-* [Your Name] - Data Scientist
-* [Teammate Name] - Backend Developer
-* [Teammate Name] - Frontend/Visualization
+* Dev Chansoria - Data Scientist
+* Gaurav - Backend Developer
+* Aniket - Frontend/Visualization
 
 ---
