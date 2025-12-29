@@ -42,7 +42,8 @@
 | :--- | :--- |
 | **Overall Accuracy** | 92.27% |
 | **Overall RMSE** | 68.51 AQI |
-    ## 📊 LSTM Model Performance
+
+   ## 📊 LSTM Model Performance
 
 | Metric | Value |
 | :--- | :--- |
